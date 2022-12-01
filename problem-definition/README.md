@@ -7,7 +7,7 @@ A problem statement is a description of the problem that guides a team of engine
 
 ## Problem Tree
 
-A problem tree can be used to help define the problem. It shows the relationshp between the root user problem with cause and effect relationship with related problems. Filling out a problem tree allows an engineering team to brainstorm and categorise problems.
+A problem tree can be used to help define the problem. It shows the relationship between the root user problem with cause and effect relationship with related problems. Filling out a problem tree allows an engineering team to brainstorm and categorise problems.
 
 For example, considering that "urban environments are too hot":
 ```mermaid
